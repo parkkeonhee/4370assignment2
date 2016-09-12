@@ -1,0 +1,30 @@
+body.home-body{
+	background-color: lightblue;
+}
+
+span{
+	font-weight: bold;
+	color: red;
+}
+
+.home-p{
+	font-weight: bold;
+}
+
+.transparentDiv{
+	background-color: rgba(244,244,244,0.5);
+	padding: 10px;
+	margin: 15px;
+}
+
+.header-center{
+	text-align: center;
+}
+
+#keonhee{
+	width: 15%;
+	height: 15%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
